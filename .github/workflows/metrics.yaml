@@ -30,5 +30,3 @@ jobs:
           base: header
           base_hireable: yes
           plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
